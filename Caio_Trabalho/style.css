@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: #ff6600;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.search {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 18px;
+}
+
+#searchButton {
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.recipe-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.recipe-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.recipe-card p {
+    font-size: 16px;
+}
+
+.recipe-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.recipe-card p {
+    font-size: 16px;
+}

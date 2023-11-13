@@ -1,0 +1,72 @@
+body {
+    font-family: 'Just Another Hand', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #80CEE1;
+}
+
+header {
+    width: 273px;
+    color: #E89928;
+    font-family: 'Just Another Hand';
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px;
+    height: 100px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.search {
+    border-radius: 50px;
+    border: 1px solid #000;
+    background: #F0F8FF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.50);
+    width: 1110px;
+    height: 62px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+#searchInput {
+    color: #000;
+    text-align: center;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 997px;
+    height: 32px;
+    padding: 10px;
+}
+
+
+.recipe-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    align-self: center;
+}
+
+.recipe-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.recipe-card p {
+    font-size: 16px;
+}
+
+h2{
+    font-size: xx-large;
+    text-align: center;
+}
